@@ -44,7 +44,7 @@
     "file-loader": "1.1.5",
     "html-webpack-plugin": "2.29.0",
     "jest": "20.0.4",
-    "electron": "^3.0.0",
+    "electron": "^9.4.0",
     "electron-rebuild": "^1.8.2",
     "electron-builder": "20.28.4",
     "url-loader": "0.6.2",
